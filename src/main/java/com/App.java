@@ -10,6 +10,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        Employee e = new Employee("Frans","frans@gmail.com");
+        Employee e = new Employee("Geo","geo@gmail.com");
     }
 }
