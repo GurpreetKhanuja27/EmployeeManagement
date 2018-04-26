@@ -5,6 +5,7 @@ public class Employee {
 	
 	private String name;
 	private String email;
+	private Address address;
 	
 	
 	public Employee(String name, String email) {
