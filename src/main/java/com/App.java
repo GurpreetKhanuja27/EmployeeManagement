@@ -1,5 +1,7 @@
 package com;
 
+import com.bean.Employee;
+
 /**
  * Hello world!
  *
@@ -8,6 +10,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        Employee e = new Employee("Frans","frans@gmail.com");
     }
 }
